@@ -9,7 +9,6 @@ input("E-POSYTA YADA KULANICI ADI GİRİN: ")
 input("Lütfen secimçim yap")
 print("lütfen uzun bir süre bekleyin")
 print("LOADİNG....")
-pt
 print("HECK...")
 print("LOADİNG....")
 print("BEKLEYİN")
