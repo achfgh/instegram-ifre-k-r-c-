@@ -12,7 +12,6 @@ print("LOADİNG....")
 ptint("HECK...")
 print("LOADİNG....")
 print("BEKLEYİN")
-     LOADİNG...     heck")
 def rastgele_sifre_uret(uzunluk=12):
     karakterler = string.ascii_letters + string.digits + string.punctuation
     sifre = ''.join(random.choice(karakterler) for _ in range(uzunluk))
