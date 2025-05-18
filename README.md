@@ -1,1 +1,3 @@
-# instegram-ifre-k-r-c-
+# instegram-sifre-kırıcı
+gerekli paket 
+python
