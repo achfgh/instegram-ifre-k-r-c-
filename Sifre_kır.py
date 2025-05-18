@@ -9,7 +9,8 @@ input("E-POSYTA YADA KULANICI ADI GİRİN: ")
 input("Lütfen secimçim yap")
 print("lütfen uzun bir süre bekleyin")
 print("LOADİNG....")
-ptint("HECK...")
+pt
+print("HECK...")
 print("LOADİNG....")
 print("BEKLEYİN")
 def rastgele_sifre_uret(uzunluk=12):
